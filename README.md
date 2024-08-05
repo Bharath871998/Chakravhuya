@@ -1,6 +1,6 @@
 Hello All, 
 
-This code generates "Mahabharata's Chakravhuya" using Python's module Turtle.
+This code generates "Mahabharata's Chakravyuha" using Python's module Turtle.
 
 Please run the code and leave your feedback on how to improve this code more efficiently.
 
